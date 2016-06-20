@@ -4,7 +4,7 @@
  *
  * @author Pontus Horn
  * @link https://pontushorn.me
- * @repository https://
+ * @repository https://github.com/PontusHorn/Pico-Random-Page
  * @license http://opensource.org/licenses/MIT
  */
 
