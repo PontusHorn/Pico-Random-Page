@@ -62,7 +62,7 @@ class PicoRandomPage extends AbstractPicoPlugin
                 }
             }
 
-            header('Location: ' . rtrim($pico->getBaseUrl(), '/') . '/' . array_rand($pages));
+            header('Location: ' . rtrim($pico->getBaseUrl(), '/') . '?' . array_rand($pages));
             exit;
         }
     }
